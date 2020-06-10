@@ -1,1 +1,5 @@
-a.class one.class
+/*.java
+/*.class
+/test/
+/target/
+#for directories
