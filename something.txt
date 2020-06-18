@@ -1,1 +1,1 @@
-to know about fork
+git fork
